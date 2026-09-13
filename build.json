@@ -1,1 +1,4 @@
-qsd
+{
+	"build": 1,
+	"changelog": "test"
+}
